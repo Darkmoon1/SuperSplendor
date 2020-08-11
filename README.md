@@ -1,2 +1,2 @@
 # SuperSplendor
-璀璨宝石桌游
+ 璀璨宝石桌游

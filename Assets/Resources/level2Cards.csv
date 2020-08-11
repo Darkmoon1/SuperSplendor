@@ -1,0 +1,11 @@
+Id,Score,Red_splendor_cost,Yellow_splendor_cost,Green_splendor_cost,Black_splendor_cost,Blue_splendor_cost,White_splendor_cost,Splendor_type
+1,1,1,0,2,2,0,0,0
+2,2,1,0,1,1,0,2,4
+3,1,1,0,2,1,1,0,2
+4,2,1,0,0,1,2,2,5
+5,1,1,0,1,1,1,0,0
+6,2,3,0,1,1,0,0,3
+7,1,1,0,2,1,0,1,2
+8,2,3,0,1,1,0,0,4
+9,1,1,0,2,1,1,0,0
+10,2,0,0,1,1,0,3,3
